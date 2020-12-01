@@ -1,11 +1,14 @@
 # meta-dotnet-core
 
+### Get Meta Security
+
+```
 git clone git://git.yoctoproject.org/meta-security
-clone this
-
-
-
-
+cd meta-raspberrypi
+git switch dunfell
+(Verify with «git branch»)
+cd ..
+```
 
 
 BitBake recipes to use the pre-built binaries provided by Microsoft for the following applications:
