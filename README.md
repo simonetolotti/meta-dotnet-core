@@ -3,6 +3,11 @@
 git clone git://git.yoctoproject.org/meta-security
 clone this
 
+
+
+
+
+
 BitBake recipes to use the pre-built binaries provided by Microsoft for the following applications:
 
 1. .Net Core 2.x, 3.x, and 5.x
